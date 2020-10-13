@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>1.5.3.RELEASE</spring-boot.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <powermock.version>1.7.3</powermock.version>
         <infra.agent.version>1.5.6-2.1.2.RELEASE</infra.agent.version>
         <spring-cloud.version>Edgware.SR4</spring-cloud.version>
